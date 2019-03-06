@@ -1,0 +1,10 @@
+{
+  "creds": {
+    "mongodb": "mongodb://localhost:27017/spotify-quetube",
+    "spotify": {
+        "client_id": "",
+        "client_secret": ""
+    }
+  },
+  "port": 8006
+}
